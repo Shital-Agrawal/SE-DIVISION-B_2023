@@ -1,0 +1,13 @@
+{
+    "name": "Pdf Compression",
+    "version": "0.1.0",
+    "description": "Pdf Compression",
+    "permissions": ["storage"],
+    "action": {
+      "default_icon": {
+      },
+      "default_title": "Pdf Compression",
+      "default_popup": "popup.html"
+    },
+    "manifest_version": 3
+}
