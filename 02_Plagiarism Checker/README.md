@@ -1,4 +1,5 @@
 Title of the Project: Plagiarism Checker
+
 Group Members: 1) Dhruv Trivedi
                2) Manas Tare
                3) Afif Shah
